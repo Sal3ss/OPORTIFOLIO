@@ -21,7 +21,7 @@ Descrição: Não tive nenhuma dificuldade, um código simples, e a explicação
 
 Link para o acesso de ao projeto:
 
-<a href= "https://script.google.com/macros/s/AKfycbwBLub03UcLDZtq1800pHBUOOdyVrjBbDJVNpBPEhYwKozBlWPm4KoNOPpgEsGq8G8D5g/exec"> </a>
+<a href= "https://script.google.com/macros/s/AKfycbwBLub03UcLDZtq1800pHBUOOdyVrjBbDJVNpBPEhYwKozBlWPm4KoNOPpgEsGq8G8D5g/exec">kk </a>
 
 
 <h1> 2Projeto: Calcular consumo. </h1>
@@ -44,7 +44,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 Descrição: Eu não sei oque foi que houve... eu não estou conseguindo calcular... ele aparece mas não calcula nada
 
 Link para o acesso de ao projeto:
-<a href= "https://script.google.com/macros/s/AKfycby69fkDvIwv7IXosP8Td1HwrOpEhNFX8QuAiPCACHai7gVw9O8G7mKLe-TWG59IIT7vuQ/exec"> </a>
+<a href= "https://script.google.com/macros/s/AKfycby69fkDvIwv7IXosP8Td1HwrOpEhNFX8QuAiPCACHai7gVw9O8G7mKLe-TWG59IIT7vuQ/exec">kk </a>
 
 <h1> 3Projeto: Cadastro livro. </h1>
 
@@ -67,7 +67,7 @@ Descrição: Eu fiz tudo corretamente, não vi nenhuma dificuldade além de enco
 
 Link para o acesso ao projeto:
 
-<a href= "https://script.google.com/macros/s/AKfycbyNXMBHlEfMl0gCPV6039_806qOtEBuGhRlbTpiBWgRVjAVktmUf2pIKwhvzke7vHFk/exec" ></a>
+<a href= "https://script.google.com/macros/s/AKfycbyNXMBHlEfMl0gCPV6039_806qOtEBuGhRlbTpiBWgRVjAVktmUf2pIKwhvzke7vHFk/exec" > kk </a>
 
 
 <h1> 4Projeto: Login </h1>
@@ -91,7 +91,7 @@ Descrição: Eu consegui fazer o codigo, porem ele deveria retornar se estaria c
 
 link para o acesso ao projeto
 
-<a href= "https://script.google.com/macros/s/AKfycbwxBVj6zsECAOiT9j1YZP67-ixFuTaoxX3l5_evMfiULxzL2n5ZZpRBWyZCZwi0tCgQ3w/exec" ></a>
+<a href= "https://script.google.com/macros/s/AKfycbwxBVj6zsECAOiT9j1YZP67-ixFuTaoxX3l5_evMfiULxzL2n5ZZpRBWyZCZwi0tCgQ3w/exec" > kk </a>
 
 Atividade de fixação do conteúdo
 <h1> 5Projeto: Calcular Média. </h1>
@@ -115,7 +115,7 @@ Descrição: A única difilculdade que tive foi achar o erro no código... algum
 
 Link para o acesso de ao projeto:
 
-<a href= "https://script.google.com/macros/s/AKfycbyzrDoA6jkejKt24iSHv7QB11fNjsk7eRo_zDRLLXXAJTWbhFPt97izahLA3wfrIh4yWg/exec"> </a>
+<a href= "https://script.google.com/macros/s/AKfycbyzrDoA6jkejKt24iSHv7QB11fNjsk7eRo_zDRLLXXAJTWbhFPt97izahLA3wfrIh4yWg/exec">kk </a>
 
 <h1> 6Projeto: Calcular consumo. </h1>
 
@@ -137,6 +137,6 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 Descrição: Assim, passar 3 dias seguidos estudando para essa atividade não foi nada facil... no fim das contas as lagrimas de confusão valeram a pena!
 
 Link para o acesso de ao projeto:
-<a href= "https://script.google.com/macros/s/AKfycbx8eamAE8EOHM45bO_HnOQ4H6oKchUW-HN6B8-VGlcT_cYGkG07pwcskZj-eHRCOg5E/exec"> </a>
+<a href= "https://script.google.com/macros/s/AKfycbx8eamAE8EOHM45bO_HnOQ4H6oKchUW-HN6B8-VGlcT_cYGkG07pwcskZj-eHRCOg5E/exec"> kk </a>
 
 
