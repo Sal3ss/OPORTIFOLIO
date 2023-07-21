@@ -121,7 +121,7 @@ Link para o acesso de ao projeto:
 
 Arquivo (s):
 <ul>
-  <li> Calcular Media </li>
+  <li> Lista de atividade I </li>
 </ul>
 
 Descrição: Pagina Web onde é possível calcular o consumo de gasolina.
@@ -138,5 +138,30 @@ Descrição: Assim, passar 3 dias seguidos estudando para essa atividade não fo
 
 Link para o acesso de ao projeto:
 <a href= "https://script.google.com/macros/s/AKfycbx8eamAE8EOHM45bO_HnOQ4H6oKchUW-HN6B8-VGlcT_cYGkG07pwcskZj-eHRCOg5E/exec"> kk </a>
+
+<h1> 7Projeto: Planilha. </h1>
+
+Arquivo (s):
+<ul>
+  <li> Lista de compras </li>
+</ul>
+
+Descrição: Pagina Web onde era pra ser possivel colocar o valor da compra.
+
+Tecnologias Utilizadas:
+
+<ul>
+  <li>Google app scrip</li>
+</ul>
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Descrição: Não conseguir concluir essa atividade, a planilha me atrapalhou bastante, me sentir completamente perdida.
+
+Link para o acesso de ao projeto:
+<a href= "https://script.google.com/macros/s/AKfycbw7AJOFWpVsf2gab1gfyQDggw3DdAFLNV689I2WgpxL-f7fpVhk6FnAgFYXsc6vKJcRLw/exec"> kk </a>
+
+
+
 
 
